@@ -2,7 +2,8 @@
 
 ### 效果图镇库
 
-![这里写图片描述](https://github.com/azhon/ShoppingSelection/tree/master/app/20170514201904724.gif)
+<img src="https://github.com/azhon/ShoppingSelection/tree/master/app/20170514201904724.gif" width="350"/>
+
 ### 博客地址：http://blog.csdn.net/a_zhon/article/details/72061028
 
 ### 使用方法：将整个项目克隆下来运行即可
